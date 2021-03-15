@@ -16,7 +16,9 @@
 * Micro Servo
 
 ## Working Model:
+![GitHub Logo](/images/working.JPG)
 ## Implementation:
+![GitHub Logo](/images/architecture.JPG)
 
 In the setup input is taken  from the gas sensor and is  compared  to two threshold values (assumed:- 400ppm and 600 ppm)creating three zones:- safe, moderate polluted and critically polluted air.After processing the input the concentration of pollutants is shown on the led panel .Other outputs sites include two led bulbs ,a piezo buzzer as well as an servo meter which are activated according to the input provided by the sensor.
 
@@ -36,6 +38,7 @@ Pollutant concentration and state is displayed on the led
 * Red Led is turned off 
 * Piezo buzzer is turned off
 * Servo operated on the default value of 30 degrees.
+
 2. Level 2 (between 400ppm and 600ppm)
 This category comes under moderately polluted air .While it is breathable purification efforts should start .Following instructions will be sent.
 Pollutant concentration and state is displayed on the led
@@ -43,6 +46,7 @@ Pollutant concentration and state is displayed on the led
 * Red Led  is turned on. 
 * Piezo buzzer is turned off.
 * Servo operated on the modified value of 60 degrees.
+
 3. Level 3(above 600ppm)
 This category comes under critically polluted air .Purification attempts should be maximized .Evacuation is advised.Following instructions will be sent.
 Pollutant concentration and state is displayed on the led.
