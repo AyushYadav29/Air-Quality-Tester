@@ -44,4 +44,4 @@ Pollutant concentration and state is displayed on the led.
 * Piezo buzzer is turned on.
 
 ## Project Link: 
-
+The link to the project on Tikercad: https://www.tinkercad.com/things/1PMgxpHX56K-copy-of-gas-detectingalarmbrinda/editel?sharecode=SE7EYXzYnsh024x3W3fo7uLBw3IJME2JCDgKABEmqac
