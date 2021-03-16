@@ -17,7 +17,7 @@
 ## Working Model:
 ![GitHub Logo](/images/working.JPG)
 ## Implementation:
-![GitHub Logo](/images/architecture.JPG)
+![GitHub Logo](/images/architecture.png)
 
 In the setup input is taken  from the gas sensor and is  compared  to threshold value (assumed:- 400ppm)creating two zones:- safe and polluted air.After processing the input the concentration of pollutants is shown on the led panel .Other outputs sites include two led bulbs ,a piezo buzzer as well.
 
