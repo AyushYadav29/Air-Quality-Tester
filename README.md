@@ -1,4 +1,4 @@
-# Air-Quality-Tester
+# Air Quality Tester
 
 * This was our first project in IoT
 * This project uses arduino online simulator (Tinkercad).
