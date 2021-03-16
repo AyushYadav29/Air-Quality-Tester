@@ -31,7 +31,7 @@ The inclusion of servo motor evolves the setup from an air quality tester to an 
 
 We specified 2 levels of threat according to the concentration of gases.
 
-1. Level 1  (< 400 ppm)
+### 1. Level 1  (< 400 ppm)
 This category comes under acceptable air quality ,no action is needed to purify the air . Following instructions  will be sent.
 Pollutant concentration and state is displayed on the led 
 * Green Led is turned on.
@@ -39,7 +39,7 @@ Pollutant concentration and state is displayed on the led
 * Piezo buzzer is turned off
 * Servo operated on the default value of 30 degrees.
 
-2. Level 2 (between 400ppm and 600ppm)
+### 2. Level 2 (between 400ppm and 600ppm)
 This category comes under moderately polluted air .While it is breathable purification efforts should start .Following instructions will be sent.
 * Pollutant concentration and state is displayed on the led
 * Green Led is turned off.
@@ -47,7 +47,7 @@ This category comes under moderately polluted air .While it is breathable purifi
 * Piezo buzzer is turned off.
 * Servo operated on the modified value of 60 degrees.
 
-3. Level 3(above 600ppm)
+### 3. Level 3(above 600ppm)
 This category comes under polluted air .Purification attempts should be maximized .Evacuation is advised.Following instructions will be sent.
 Pollutant concentration and state is displayed on the led.
 * Green Led is turned off.
